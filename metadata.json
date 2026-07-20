@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Paradise",
+  "description": "A luxury hotel booking website featuring AI smart search, trip planner, price alerts, recommendations, user reviews, and an interactive admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
